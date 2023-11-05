@@ -1,7 +1,6 @@
 # NB地址计算器
-精易论坛发布地址:
-
-https://bbs.125.la/thread-14801637-1-1.html
+精易论坛发布地址:https://bbs.125.la/thread-14801637-1-1.html
+b站发布地址:https://www.bilibili.com/read/preview/27509078
 
 为了方便计算地址 仿照x96dbg的计算器写的
 但是新增了点功能 比如说十进制直接#123 就可以表示
