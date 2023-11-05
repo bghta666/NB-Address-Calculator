@@ -11,17 +11,8 @@ https://bbs.125.la/thread-14801637-1-1.html
 
 右边的编辑框相当于一个记事本用来保存地址,不过粘贴的时候会处理剪切板,ce的地址可以直接粘贴出来
 
-<?xml version="1.0" encoding="utf-8"?>
-<CheatTable>
-  <CheatEntries>
-    <CheatEntry>
-      <ID>16</ID>
-      <Description>"无描述"</Description>
-      <VariableType>4 Bytes</VariableType>
-      <Address>10DDFEAC</Address>
-    </CheatEntry>
-  </CheatEntries>
-</CheatTable>
+![image](https://github.com/bghta666/NB-Address-Calculator/assets/111718271/1b50e1da-2657-42ad-bbe2-534ac464895d)
+
 这种会直接粘贴出10DDFEAC
 
 
